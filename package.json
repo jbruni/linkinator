@@ -1,9 +1,9 @@
 {
-  "name": "linkinator",
+  "name": "@jbruni/linkinator",
   "description": "Find broken links, missing images, etc in your HTML. Scurry around your site and find all those broken links.",
   "version": "0.0.0",
   "license": "MIT",
-  "repository": "JustinBeckwith/linkinator",
+  "repository": "jbruni/linkinator",
   "main": "build/src/index.js",
   "types": "build/src/index.d.ts",
   "bin": {
