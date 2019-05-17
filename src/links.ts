@@ -5,6 +5,7 @@ const linksAttr = {
   background: ['body'],
   cite: ['blockquote', 'del', 'ins', 'q'],
   data: ['object'],
+  'data-src': ['img'],
   href: ['a', 'area', 'embed', 'link'],
   icon: ['command'],
   longdesc: ['frame', 'iframe'],
